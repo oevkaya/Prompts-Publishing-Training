@@ -35,21 +35,12 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 - `input_publishing_data.csv` - Sample dataset (wedding guest thank-you notes) related to publishing sector
 - `output_guest_message.json` - Example output showing structured responses
 
-## Platforms
+### Platforms
 
 - **OpenAI ChatGPT Interface**: Recommended for main usage with some extra functionalities if you have OpenAI membership
 - **Google Gemini or Claude**: These two can be reasonable alternatives 
 
-### Best Practices
-
-1. Start with clear, specific instructions
-2. Use system messages to set consistent behavior
-3. Provide examples for complex tasks
-4. Request structured outputs for programmatic use
-5. Test with small datasets before scaling
-6. Document your prompt iterations
-
-#### Interactive Exercises (6 R Markdown files)
+### Interactive Exercises (6 Markdown files)
 
 **Exercise 1:** Writing Your First Effective Prompts
 
@@ -63,6 +54,15 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 
 **Exercise 6:** Editorial Quality Control and Ethics
 
-## Acknowledgments
+### Best Practices
+
+1. Start with clear, specific instructions
+2. Use system messages to set consistent behavior
+3. Provide examples for complex tasks
+4. Request structured outputs for programmatic use
+5. Test with small datasets before scaling
+6. Document your prompt iterations
+
+#### Acknowledgments
 
 Thanks for the initial repository curated by me and CDCS people earlier on with their feedback.
