@@ -52,10 +52,15 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 #### Interactive Exercises (6 R Markdown files)
 
 **Exercise 1:** Writing Your First Effective Prompts
+
 **Exercise 2:** Book Concept Development
+
 **Exercise 3:** Creating Compelling Marketing Copy
+
 **Exercise 4:** Metadata Generation and SEO Optimization
-**Exercise 5:** Data Analysis with ChatGPT and Claude
+
+**Exercise 5:** Data Analysis with ChatGPT and/or Claude
+
 **Exercise 6:** Editorial Quality Control and Ethics
 
 ## Acknowledgments
