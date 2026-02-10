@@ -32,7 +32,7 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 
 - `inital_prompt_tips.md` - Prompt templates from the in class examples covering model parameter discussions, system messages, zero-shot, few-shot learning, and more practical examples
 - `prompt_template_library.md` - Prompt templates from the in class examples covering model parameter discussions, system messages, zero-shot, few-shot learning, and more practical examples
-- `input_publishing_data.csv` - Sample dataset (wedding guest thank-you notes) related to publishing sector
+- `input_publishing_data.csv` - Sample dataset related to publishing sector
 - `output_guest_message.json` - Example output showing structured responses
 
 ### Platforms
