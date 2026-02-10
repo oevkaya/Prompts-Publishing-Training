@@ -3,8 +3,11 @@
 ## 🎯 Workshop Overview
 
 **Title:** Leveraging Large Language Models for Publishing: Practical Prompt Engineering Strategies
+
 **Duration:** 3 hours
+
 **Target Audience:** Publishing professionals including editors, publishers, marketing specialists, as such.
+
 **Objective:** Provide foundational skills in prompt engineering with specific applications to publishing workflows, including book concept development, marketing copy creation, metadata generation, and data analysis.
 
 # Effective Prompting for Publishers
