@@ -25,7 +25,7 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 
 General structure of the workshop follows tentatively the following key points 
 
-- Module 1: Introduction to Gen-AI (LLMs) for Publishing and fundamentals of Prompting (60 minutes)
+- **Module 1:** Introduction to Gen-AI (LLMs) for Publishing and fundamentals of Prompting (60 minutes)
 
   - What are LLMs? Overview of ChatGPT, Claude, and other tools
   - Possibilities in publishing: from ideation to production
@@ -33,18 +33,22 @@ General structure of the workshop follows tentatively the following key points
   - Core principles: clarity, context, constraints
   - Prompt patterns: zero-shot, few-shot, chain-of-thought with hands one examples
     
-- Module 2: Publishing-Specific Applications (60 minutes)
+- **Module 2:** Publishing-Specific Applications (60 minutes)
   
-  - Book concept development and content ideation\\
-  - Editorial checking and on-purpose usage\\
-  - Marketing copy and promotional content\\
-  - Metadata generation and SEO optimization\\
+  - Book concept development and content ideation
+  - Editorial checking and on-purpose usage
+  - Marketing copy and promotional content
+  - Metadata generation and SEO optimization
     
-- Module 3: Specific Use-cases, practical templated and tools (60 minutes)
-  - 
+- **Module 3:** Specific Use-cases, practical templated and tools (60 minutes)
 
-  
-
+  - How to use custom GPTs; Examples and cfreation of custom GPT via OpenAI
+  - Example showcases from Gemini NotebookLLM and others related to publishing
+  - ChatGPT Data Analytics feature walkthrough, and other possibilities
+  - Further possibilities on open source or local LLMs
+  - Discussion about ready-to-use prompt templates and their improvements
+  - Q&A and next steps, continued learning resources
+    
 ## Main Resources
 
 - [OpenAI API Documentation](https://platform.openai.com/docs)
@@ -59,7 +63,8 @@ General structure of the workshop follows tentatively the following key points
 ### Platforms
 
 - **OpenAI ChatGPT Interface**: Recommended for main usage with some extra functionalities if you have OpenAI membership
-- **Google Gemini or Claude**: These two can be reasonable alternatives 
+- **Google Gemini or Claude's LLMs**: These two can be reasonable alternatives while working on certain prompts
+- **Any size open LLM**: Huggingface playground can be useful for considering small size open source models
 
 ### Interactive Exercises (6 Markdown files)
 
