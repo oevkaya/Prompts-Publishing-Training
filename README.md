@@ -23,6 +23,28 @@ The session will demonstrate how large language models (LLMs) can be leveraged e
 
 For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics feature and/or Claude (with Code), will be explored with prompting practices. By the end of the session, you’ll leave with the foundational skills for prompting LLMs and some ready-to-use prompt templates.
 
+General structure of the workshop follows tentatively the following key points 
+
+- Module 1: Introduction to Gen-AI (LLMs) for Publishing and fundamentals of Prompting (60 minutes)
+
+  - What are LLMs? Overview of ChatGPT, Claude, and other tools
+  - Possibilities in publishing: from ideation to production
+  - Ethical considerations and limitations
+  - Core principles: clarity, context, constraints
+  - Prompt patterns: zero-shot, few-shot, chain-of-thought with hands one examples
+    
+- Module 2: Publishing-Specific Applications (60 minutes)
+  
+  - Book concept development and content ideation\\
+  - Editorial checking and on-purpose usage\\
+  - Marketing copy and promotional content\\
+  - Metadata generation and SEO optimization\\
+    
+- Module 3: Specific Use-cases, practical templated and tools (60 minutes)
+  - 
+
+  
+
 ## Main Resources
 
 - [OpenAI API Documentation](https://platform.openai.com/docs)
@@ -30,7 +52,6 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 
 ## Prompt Content Scripts
 
-- `inital_prompt_tips.md` - Prompt templates from the in class examples covering model parameter discussions, system messages, zero-shot, few-shot learning, and more practical examples
 - `prompt_template_library.md` - Prompt templates from the in class examples covering model parameter discussions, system messages, zero-shot, few-shot learning, and more practical examples
 - `input_publishing_data.csv` - Sample dataset related to publishing sector
 - `output_guest_message.json` - Example output showing structured responses
