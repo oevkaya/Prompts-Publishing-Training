@@ -14,6 +14,8 @@ This is the selected list of resources for looking possible use cases, creating 
 
 - [Ten Must-Have AI Prompts for Authors & Book Marketers: From Metadata to Marketing](https://www.amplifymarketers.com/author-ai-prompts)
 
+- [PEOPLE PLUS MACHINES The role of Artificial Intelligence in Publishing](https://www.publishers.org.uk/wp-content/uploads/2020/10/People-plus-machines-The-role-of-Artificial-Intelligence-in-Publishing_FINAL.pdf)
+
 - [OpenAI Prompt Engineering Best Practices](https://developers.openai.com/api/docs/guides/prompt-engineering)
 
 - [Anthropic's Prompt Engineering Tutorial](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview)
