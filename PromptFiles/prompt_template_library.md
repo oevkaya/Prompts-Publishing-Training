@@ -76,26 +76,9 @@ fits in the market landscape.
 
 ---
 
-### Template 4: Chapter Outline
-```
-Create a detailed chapter-by-chapter outline for this book:
-
-[PASTE BOOK CONCEPT]
-
-The book should have [NUMBER] chapters. For each chapter, provide:
-1. Chapter number and title
-2. 3-4 sentence description of content
-3. Key takeaways or learning objectives
-4. Suggested length (word count)
-
-Ensure logical flow and progression from [STARTING POINT] to [END GOAL].
-```
-
----
-
 ## Marketing Copy
 
-### Template 5: Back Cover Copy
+### Template 4: Back Cover Copy
 ```
 You are a bestselling book marketing copywriter. Write compelling back 
 cover copy for [BOOK TYPE] with these details:
@@ -113,7 +96,7 @@ plot twists.
 
 ---
 
-### Template 6: Amazon Book Description
+### Template 5: Amazon Book Description
 ```
 Write an Amazon book description for [BOOK TITLE].
 
@@ -132,7 +115,7 @@ Tone: [STYLE]
 
 ---
 
-### Template 7: Social Media Post
+### Template 6: Social Media Post
 ```
 Create a [PLATFORM] post for [BOOK TITLE].
 
@@ -149,7 +132,7 @@ Goal: [OBJECTIVE, e.g., drive pre-orders, build buzz, encourage shares]
 
 ---
 
-### Template 8: Tagline Generation
+### Template 7: Tagline Generation
 ```
 Generate [NUMBER] taglines for [BOOK TITLE].
 
@@ -165,7 +148,7 @@ Target emotion: [EMOTION]
 
 ---
 
-### Template 9: Email Campaign
+### Template 8: Email Campaign
 ```
 Write a promotional email to [ACTION, e.g., announce launch, drive pre-orders].
 
@@ -193,7 +176,7 @@ Tone: [STYLE]
 
 ## Metadata Generation
 
-### Template 10: Comprehensive Metadata Package
+### Template 9: Comprehensive Metadata Package
 ```
 You are a metadata specialist for a major publisher. Generate complete 
 metadata for this book:
@@ -218,7 +201,7 @@ Be specific, accurate, and optimize for discoverability.
 
 ---
 
-### Template 11: SEO Keyword Strategy
+### Template 10: SEO Keyword Strategy
 ```
 Generate a comprehensive SEO keyword strategy for [BOOK TITLE].
 
@@ -241,7 +224,7 @@ Consider:
 
 ---
 
-### Template 12: Platform-Specific Metadata
+### Template 11: Platform-Specific Metadata
 ```
 Create [PLATFORM]-optimized metadata for [BOOK TITLE].
 
@@ -258,7 +241,7 @@ Optimize for [PLATFORM]'s search algorithm and best practices.
 
 ---
 
-### Template 13: BISAC Classification
+### Template 12: BISAC Classification
 ```
 Assign appropriate BISAC subject codes for [BOOK TITLE AND DESCRIPTION].
 
@@ -284,7 +267,7 @@ Ensure maximum discoverability across platforms.
 
 ## Editorial Tasks
 
-### Template 14: Manuscript Review
+### Template 13: Manuscript Review
 ```
 You are an experienced editor. Review this [MANUSCRIPT SECTION/EXCERPT] 
 and provide:
@@ -306,7 +289,7 @@ Genre: [GENRE]
 
 ---
 
-### Template 15: Style Guide Compliance
+### Template 14: Style Guide Compliance
 ```
 Review this text for compliance with [STYLE GUIDE, e.g., Chicago Manual 
 of Style, AP Style, house style]:
@@ -329,7 +312,7 @@ Provide:
 
 ---
 
-### Template 16: Peer Review Assistance
+### Template 15: Peer Review Assistance
 ```
 You are assisting with peer review of an academic manuscript. For this 
 [SECTION/ASPECT]:
@@ -355,7 +338,7 @@ recommendation (human reviewer will make final decision).
 
 ## Data Analysis
 
-### Template 17: Exploratory Data Analysis
+### Template 16: Exploratory Data Analysis
 ```
 Analyze [DATASET NAME] and provide:
 
@@ -372,7 +355,7 @@ Focus on [BUSINESS QUESTION OR AREA OF INTEREST].
 
 ---
 
-### Template 18: Trend Analysis
+### Template 17: Trend Analysis
 ```
 Analyze trends in [METRIC] over [TIME PERIOD] in [DATASET].
 
@@ -389,29 +372,9 @@ Provide:
 
 Use clear labels and professional formatting.
 ```
-
 ---
 
-### Template 19: Comparative Analysis
-```
-Compare [METRIC] across [CATEGORIES] in [DATASET].
-
-Generate:
-1. Summary table with key metrics:
-   - [METRIC 1]
-   - [METRIC 2]
-   - [METRIC 3]
-2. Visualization comparing categories
-3. Statistical significance tests (if applicable)
-4. Ranking and performance gaps
-5. Recommendations for [IMPROVEMENT AREA]
-
-Explain methodology and any assumptions made.
-```
-
----
-
-### Template 20: Predictive Analysis
+### Template 18: Predictive Analysis
 ```
 Based on historical data in [DATASET], forecast [METRIC] for [TIME PERIOD].
 
@@ -433,7 +396,7 @@ Be transparent about uncertainty and limitations.
 
 ## Quality Control
 
-### Template 21: Fact-Checking Request
+### Template 19: Fact-Checking Request
 ```
 Review this content for factual accuracy:
 
@@ -452,36 +415,9 @@ Provide:
 - Recommended verification steps
 - Any claims that should be removed or qualified
 ```
-
 ---
 
-### Template 22: Bias Detection
-```
-Analyze this content for potential bias:
-
-[PASTE CONTENT]
-
-Check for:
-1. Gender bias (language, assumptions, representation)
-2. Racial/ethnic bias
-3. Cultural bias or insensitivity
-4. Socioeconomic bias
-5. Geographic bias
-6. Age bias
-7. [OTHER RELEVANT BIAS TYPES]
-
-For each instance found:
-- Quote the problematic text
-- Explain the issue
-- Suggest a neutral alternative
-- Rate severity (critical/important/minor)
-
-Provide a bias-free revised version.
-```
-
----
-
-### Template 23: Plagiarism Check Analysis
+### Template 20: Plagiarism Check Analysis
 ```
 I need to check this content for originality:
 
@@ -500,7 +436,7 @@ plagiarism detection software.
 
 ---
 
-### Template 24: Quality Assurance Review
+### Template 21: Quality Assurance Review
 ```
 Perform a comprehensive quality review of this [CONTENT TYPE]:
 
@@ -529,7 +465,7 @@ Create a summary with:
 
 ## Advanced Techniques
 
-### Template 25: Chain-of-Thought Prompting
+### Template 22: Chain-of-Thought Prompting
 ```
 Let's think through [PROBLEM/QUESTION] step by step:
 
@@ -553,7 +489,7 @@ assumptions and uncertainties.
 
 ---
 
-### Template 26: Multi-Perspective Analysis
+### Template 23: Multi-Perspective Analysis
 ```
 Evaluate [TOPIC/CONTENT] from multiple perspectives:
 
@@ -577,7 +513,7 @@ Then synthesize: What approach balances all perspectives?
 
 ---
 
-### Template 27: Iterative Refinement
+### Template 24: Iterative Refinement
 ```
 I need to refine this [CONTENT TYPE]:
 
