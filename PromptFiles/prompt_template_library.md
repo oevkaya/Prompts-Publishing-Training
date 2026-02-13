@@ -610,22 +610,21 @@ Continue this process until we achieve [QUALITY STANDARD OR GOAL].
 4. **Combine templates** for complex tasks
 5. **Iterate and refine** based on results
 
-### Best Practices:
+### The 5 C's of Effective Prompts:
 
-- ✅ Be as specific as possible
-- ✅ Provide context and constraints
-- ✅ Request examples when helpful
-- ✅ Ask for explanations of methodology
-- ✅ Specify output format clearly
-- ✅ Always review and verify AI outputs
+1. **Clear**: Crucial to avoid ambiguous instructions
+2. **Complete**: All necessary information provided for the better results
+3. **Constrained**: Specific boundaries and requirements, such as keywords, output format, certain tone or style of writing
+4. **Contextualized**: Relevant background information whenever needed based on the context
+5. **Constructive**: Request explanations and reasoning in your prompt skeleton
 
-### Common Variables:
+### Common Patterns to apply:
 
-- **[WORD COUNT]**: 50, 100, 150, 250, 300, 500, etc.
-- **[NUMBER]**: 3, 5, 10, 15, 20, etc.
-- **[TONE]**: professional, conversational, academic, inspirational, urgent, etc.
-- **[AUDIENCE]**: specific demographic and psychographic details
-- **[PLATFORM]**: Amazon, Google Books, social media, email, etc.
+- **Role assignment**: "You are a [ROLE]..."
+- **Task specification**: "Create/Write/Generate/Analyze..."
+- **Context provision**: "Based on/Given/Considering..."
+- **Format specification**: "Provide as a table/list/paragraph..."
+- **Quality criteria**: "Ensure/Make sure/Focus on..."
 
 ---
 
@@ -686,27 +685,7 @@ Now create [CONTENT] in this style.
 
 ---
 
-## Prompt Engineering Quick Reference
-
-### The 5 C's of Effective Prompts:
-
-1. **Clear**: Unambiguous instructions
-2. **Complete**: All necessary information provided
-3. **Constrained**: Specific boundaries and requirements
-4. **Contextualized**: Relevant background information
-5. **Constructive**: Request explanations and reasoning
-
-### Common Prompt Patterns:
-
-- **Role assignment**: "You are a [ROLE]..."
-- **Task specification**: "Create/Write/Generate/Analyze..."
-- **Context provision**: "Based on/Given/Considering..."
-- **Format specification**: "Provide as a table/list/paragraph..."
-- **Quality criteria**: "Ensure/Make sure/Focus on..."
-
----
-
-## Troubleshooting
+## Troubleshooting on your prompts
 
 ### If outputs are too generic:
 - Add more specific constraints
@@ -731,21 +710,5 @@ Now create [CONTENT] in this style.
 - Request summaries or expansions
 - Break into multiple prompts
 - Use "expand on" or "condense" follow-ups
-
----
-
-## Version Control
-
-**Document Version:** 1.0  
-**Last Updated:** [Date]  
-**Created for:** Prompt Engineering for Publishing Workshop
-
-### Changelog:
-- v1.0: Initial template library with 27 core templates
-
-### Feedback:
-Please share your experiences using these templates and suggest improvements!
-
----
 
 **Remember:** These templates are starting points. Adapt them to your specific needs, organization, and use cases. The best prompts are those refined through practice and iteration!
