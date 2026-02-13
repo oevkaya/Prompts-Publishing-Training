@@ -91,4 +91,4 @@ General structure of the workshop follows tentatively the following key points
 
 #### Acknowledgments
 
-Thanks for the initial repository curated by me and CDCS people earlier on with their feedback.
+Thanks for the initial repository curated by me and CDCS people earlier on with their feedback. For the creation of base prompt templates, the deep search via Scispace and further curation has been implemented 
