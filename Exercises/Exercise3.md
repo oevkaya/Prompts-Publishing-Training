@@ -1,4 +1,4 @@
-### "Exercise 3: Creating Compelling Marketing Copy with LLMs"
+### Exercise 3: Creating Compelling Marketing Copy with LLMs
 
 ## Learning Objectives
 
