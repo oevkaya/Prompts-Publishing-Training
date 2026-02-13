@@ -1,4 +1,4 @@
-# Prompt Template Library for Publishing Professionals
+# Prompt template library to start with
 
 ## Table of Contents
 
