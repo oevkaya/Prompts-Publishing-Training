@@ -1,4 +1,4 @@
-## "Exercise 2: Book Concept Development with LLMs"
+## Exercise 2: Book Concept Development with LLMs
 
 ## Learning Objectives
 
