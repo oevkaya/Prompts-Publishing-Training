@@ -1,4 +1,4 @@
-### "Exercise 1: Writing Your First Effective Prompts"
+### Exercise 1: Writing Your First Effective Prompts
 
 #### Learning Objectives
 
