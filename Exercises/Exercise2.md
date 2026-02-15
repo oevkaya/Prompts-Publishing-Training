@@ -1,8 +1,6 @@
 ## Exercise 2: Book Concept Development with LLMs
 
-## Learning Objectives
-
-By the end of this exercise, you will:
+## Objectives
 
 1. Use LLMs to brainstorm and develop book concepts
 2. Create structured book proposals with AI assistance
@@ -48,16 +46,17 @@ Choose one concept from above and develop it further with further details in ite
 
 ```
 I want to develop this book concept further: [PASTE YOUR CHOSEN CONCEPT]
+You are an experienced content writer
 
 Please provide:
 
-1. An expanded 3-paragraph concept description
+1. An expanded 3-paragraph concept description, the tone should be warm and auidence friendly
 2. 5 key themes or topics the book should cover
 3. Potential author credentials or expertise needed
 4. 3 comparable titles (comp titles) and how this book differs
-5. Potential challenges or concerns with this concept
+5. Write a catchy tagline for 3 comparable titles you created
 
-Be specific and realistic about market viability.
+Be specific and realistic about market viability. After providing above details, create a summary table for the suggestions in md format. 
 ```
 
 ## Part 2: Creating a Book Proposal
@@ -74,9 +73,8 @@ section for a book proposal based on this concept:
 
 The overview should be 300-400 words and include:
 - The book's premise and promise
-- Why this book is needed now
+- Why this book is needed now with formal tone
 - The transformation readers will experience
-- The author's unique qualifications
 
 Write in a compelling, professional tone suitable for presenting 
 to acquisitions editors.
@@ -92,19 +90,18 @@ Create a detailed target audience profile for this book:
 [PASTE YOUR BOOK CONCEPT]
 
 Include:
-1. Demographics (age, gender, education, income)
+1. Demographics (such as age, gender, education, income)
 2. Psychographics (values, interests, pain points)
 3. Reading habits and preferred formats
 4. Where they discover books (platforms, influencers)
 5. Estimated market size
 
-Be specific and data-informed where possible.
+Be specific and data-informed where possible. Create a summary table in excel format to share with the marketing team with 3 key suggestions
 ```
 
 Based on the generated outputs, 
 
 - Investigate the details you asked based on your model exploration, are they available or
-- Did you find the tone suitable really or not ?
 - Is the generated detals on the target profile can be useful for your further analysis or are they so vague ?
 
 ### Exercise 2.5: Competitive Analysis
@@ -151,17 +148,14 @@ Target audience: [YOUR TARGET AUDIENCE]
 Tone: [Conversational/Professional/Inspirational/etc.]
 ```
 
-**Evaluation Checklist:**
-- [ ] Does it hook you in the first sentence?
-- [ ] Is the voice consistent and appropriate?
-- [ ] Would the target audience relate to this?
-- [ ] Are there any red flags (clichés, generic statements)?
+**Quality Checklist:**
 
 For the quality control checking, it is good to explore below details by reviewing all the outputs generated so far and answer:
 
 - [ ] List any factual claims that need verification:
+- [ ] Would the target audience relate to this: 
 - [ ] Does the concept feel fresh and distinctive? Why or why not?
-- [ ] Based on your publishing expertise, is this concept viable? What concerns do you have?
+- [ ] Based on your publishing expertise, is this concept viable? Are there any red flags (clichés, generic statements)?
 
 ## Part 5: Advanced Techniques
 
@@ -192,9 +186,9 @@ Think carefully and show your reasoning at each step.
 
 ## Part 6: Collaborative Brainstorming
 
-### Exercise 2.11: Multiple Perspectives
+### Exercise 2.8: Multiple Perspectives
 
-#### Prompt 9: Role-Playing Different Stakeholders
+#### Prompt 8: Role-Playing Different Stakeholders
 
 ```
 Evaluate this book concept from three different perspectives:
