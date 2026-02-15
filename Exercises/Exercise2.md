@@ -157,7 +157,7 @@ For the quality control checking, it is good to explore below details by reviewi
 - [ ] Does the concept feel fresh and distinctive? Why or why not?
 - [ ] Based on your publishing expertise, is this concept viable? Are there any red flags (clichés, generic statements)?
 
-## Part 5: Advanced Techniques
+## Part 3: Advanced Techniques
 
 ### Exercise 2.7: Chain-of-Thought Prompting
 
@@ -184,7 +184,7 @@ Step 4: Provide a final recommendation: Proceed, revise, or abandon?
 Think carefully and show your reasoning at each step.
 ```
 
-## Part 6: Collaborative Brainstorming
+## Part 4: Collaborative Brainstorming
 
 ### Exercise 2.8: Multiple Perspectives
 
