@@ -50,7 +50,6 @@ General structure of the workshop follows tentatively the following key points
   - Q&A and next steps, continued learning resources
     
 ## Main Resources
-
 As a general guidance and initial information, the related [slides are available here](https://oevkaya.github.io/Prompts-Publishing-Training/)
 
 - [OpenAI API Documentation](https://platform.openai.com/docs)
