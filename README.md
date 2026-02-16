@@ -51,6 +51,8 @@ General structure of the workshop follows tentatively the following key points
     
 ## Main Resources
 
+As a general guidance and initial information, the related [slides are available here](https://oevkaya.github.io/Prompts-Publishing-Training/)
+
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
