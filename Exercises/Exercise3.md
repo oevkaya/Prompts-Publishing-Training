@@ -1,8 +1,6 @@
 ### Exercise 3: Creating Compelling Marketing Copy with LLMs
 
-## Learning Objectives
-
-By the end of this exercise, you will:
+## Objectives
 
 1. Generate compelling book descriptions for different platforms
 2. Create promotional content for various marketing channels
@@ -32,7 +30,7 @@ Setting: Seattle, present day
 Tone: Dark, suspenseful, fast-paced
 
 The copy should be 150-200 words, hook readers immediately, build 
-tension, and end with a compelling question or cliffhanger. Do NOT 
+tension. DO end with a compelling question or cliffhanger. Do NOT 
 reveal major plot twists.
 ```
 
@@ -57,11 +55,10 @@ Requirements:
 - 300-400 words (longer than back cover)
 - Include 2-3 short paragraphs
 - Add a bullet-point list of 3-5 key selling points
-- Incorporate SEO keywords: psychological thriller, serial killer, 
+- Incorporate SEO keywords: such as psychological thriller, serial killer, 
   forensic psychologist, suspense, Seattle
 - End with a strong call-to-action
 - Use HTML formatting: <b> for bold, <i> for italics
-- Create urgency and FOMO (fear of missing out)
 
 Tone: Exciting and commercial, slightly more dramatic than back cover copy.
 ```
@@ -220,10 +217,8 @@ Follow standard press release format. 400-600 words total.
 
 ### Exercise 3.8: Non-Fiction Book Description
 
-Let's switch to a non-fiction example.
-
-#### Scenario
-Business book: "The Remote Leadership Playbook: Building High-Performing Teams Across Time Zones"
+Let's switch to a non-fiction example and consider the Business book called as 
+"The Remote Leadership Playbook: Building High-Performing Teams Across Time Zones"
 
 #### Prompt 8: Non-Fiction Amazon Description
 
@@ -323,8 +318,7 @@ Variation A: Benefit-focused (emphasize what reader will gain)
 Variation B: Curiosity-driven (create intrigue, pose question)
 Variation C: Urgency/Scarcity (limited time, FOMO)
 
-Each should be 5-10 words. Then predict which will have the 
-highest open rate and explain why.
+Each should be 5-10 words. Then predict which will have the highest open rate and explain why.
 ```
 
 ### Exercise 3.12: Copy Critique and Improvement
@@ -341,7 +335,7 @@ Consider the [Original AI Copy] for the marketing and evaluate the copy based on
 Consider three main items for each critique element. Each should be 5-10 words and concise
 ```
 
-## Part 7: Ethical Considerations
+## Part 6: Ethical Considerations
 
 ### Exercise 3.13: Avoiding Misleading Claims
 
@@ -381,12 +375,9 @@ Step k: Add whatever you need and try to test this new prompt template. -You can
 ## Reflection Questions
 
 1. Where did AI struggle or produce low-quality results?
-2. How much editing was required to make AI copy publication-ready?
-3. What surprised you about the AI's capabilities or limitations?
+2. What surprised you about the AI's capabilities or limitations?
 
 ## Marketing Copy Checklist
-
-Before publishing any AI-generated marketing copy:
 
 - [ ] Does it accurately represent the book?
 - [ ] Is the tone appropriate for the platform and audience?
@@ -394,18 +385,16 @@ Before publishing any AI-generated marketing copy:
 - [ ] Does it include a clear call-to-action?
 - [ ] Have you removed AI-generated clichés or generic phrases?
 - [ ] Does it differentiate this book from competitors?
-- [ ] Is it optimized for SEO (if applicable)?
 - [ ] Has it been proofread for errors?
 
-## Common AI Copywriting Pitfalls
+## Possible common AI copywriting pitfalls
 
-### Watch Out For:
 1. **Generic superlatives**: "Revolutionary," "groundbreaking," "life-changing"
 2. **Vague promises**: "Will change your life" without specifics
 3. **Hallucinated details**: Made-up reviews, false comparisons, invented facts
 4. **Inconsistent tone**: Shifts between formal and casual mid-copy
 
-To fix such issues, again, we need manual checking and improvements
+To fix such issues, again, we need manual checking and improvements whenever we needed
 
 **Prompt Tip:** Keep a certain file of effective marketing copy (both AI-generated and human-written) to use as examples in few-shot prompts!
 

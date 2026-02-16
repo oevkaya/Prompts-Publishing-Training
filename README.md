@@ -76,10 +76,6 @@ General structure of the workshop follows tentatively the following key points
 
 **Exercise 4:** Metadata Generation and SEO Optimization
 
-**Exercise 5:** Data Analysis with ChatGPT and/or Claude
-
-**Exercise 6:** Editorial Quality Control and Ethics
-
 ### Best Practices
 
 1. Start with clear, specific instructions
@@ -91,4 +87,4 @@ General structure of the workshop follows tentatively the following key points
 
 #### Acknowledgments
 
-Thanks for the initial repository curated by me and CDCS people earlier on with their feedback. For the creation of base prompt templates, the deep search via Scispace and further curation has been implemented 
+Thanks for the initial repository curated by me and CDCS people earlier on with their feedback. For the creation of base prompt templates, the deep search via Scispace and further curation has been implemented. Final templates and corresponding use cases are created personally based on draft materials. 
