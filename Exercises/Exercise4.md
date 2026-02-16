@@ -1,8 +1,6 @@
 ## Exercise 4: Metadata Generation and SEO Optimization with LLMs
 
-## Learning Objectives
-
-By the end of this exercise, you will:
+## Objectives
 
 1. Generate comprehensive metadata for books
 2. Create SEO-optimized keywords and categories
@@ -70,7 +68,7 @@ Then suggest:
 - Apple Books categories
 - Google Play Books categories
 
-Ensure maximum discoverability across platforms.
+Ensure maximum discoverability across all platforms.
 ```
 
 **Verification Activity:**
@@ -120,7 +118,7 @@ Consider:
 Rewrite the book description for "Weeknight Mediterranean" to 
 optimize for search engines while maintaining readability and appeal.
 
-Original description: [PASTE DESCRIPTION FROM EXERCISE 4.1]
+Original description: [PASTE LONG DESCRIPTION FROM PREVIOUS RESULTS]
 
 Requirements:
 1. Naturally incorporate these primary keywords: Mediterranean diet, 
@@ -173,7 +171,7 @@ Amazon has specific requirements and best practices. Generate:
 6. **Amazon A+ Content suggestions** (enhanced content modules)
    - 3-5 module ideas with descriptions
 
-Optimize for Amazon's A9 search algorithm.
+Optimize metadata for Amazon's A9 search algorithm.
 ```
 
 ### Exercise 4.6: Google Books Metadata
@@ -409,9 +407,9 @@ Provide strategic recommendations based on this competitive analysis.
 
 ## Part 8: Emerging Metadata Practices
 
-### Exercise 4.13: AI-Driven Personalization Metadata
+### Exercise 4.12: AI-Driven Personalization Metadata
 
-#### Prompt 13: Next-Generation Metadata
+#### Prompt 12: Next-Generation Metadata
 
 ```
 Design metadata for AI-driven recommendation engines and 
@@ -453,7 +451,7 @@ AI-powered retail environments.
 1. **Metadata is discoverability**: Poor metadata = invisible books
 2. **Platform-specific optimization matters**: One size doesn't fit all
 3. **Keywords must be natural**: Balance SEO with readability
-4. **Verify AI-generated codes**: BISAC, LC, and Dewey codes may be hallucinated
+4. **Verify AI-generated codes**: [BISAC](https://www.bisg.org/complete-bisac-subject-headings-list), [LC](https://www.usg.edu/galileo/skills/unit03/libraries03_04.phtml), and [Dewey](https://www.library.illinois.edu/infosci/research/guides/dewey/) codes may be hallucinated
 5. **Test and iterate**: Metadata isn't set-it-and-forget-it
 
 ## Metadata Quality Checklist
@@ -533,4 +531,4 @@ Optimize for [PLATFORM]'s algorithm and best practices.
 ### Platform Guidelines:
 - [Amazon KDP metadata guide](https://kdp.amazon.com/en_US/help/topic/G201097560)
 
-****Critical Reminder:** Always verify AI-generated metadata against authoritative sources before publication. Inaccurate metadata can harm discoverability and credibility!**
+****Critical Reminder:** Always verify AI-generated metadata against authoritative sources before publication. Inaccurate metadata can harm discoverability and credibility!
