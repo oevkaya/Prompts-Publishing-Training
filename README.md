@@ -25,6 +25,8 @@ For data analysis purposes, certain plug-ins in ChatGPT such as Data Analytics f
 
 General structure of the workshop follows tentatively the following key points 
 
+![General Plan](InfoGraphics_GenAI.png)
+
 - **Module 1:** Introduction to Gen-AI (LLMs) for Publishing and fundamentals of Prompting (60 minutes)
 
   - What are LLMs? Overview of ChatGPT, Claude, and other tools
