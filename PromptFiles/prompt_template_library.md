@@ -1,5 +1,29 @@
 # Prompt template library to start with
 
+# Specific step by step prompt we explored 
+
+```
+You are acting as national librarian in China
+
+Do the following tasks step by step:  
+Step 1: Provide a list of 20 books by Scottish Writers that have been translated into Chinese and published by a Chinese Publisher since the year 2000. 
+Step2: Search Chinese Library databases to find the requested information in Step 1
+Step 3: Before creating the list, verify original UK publication information with the British Library public title database
+Step 4:  Provide the results in an excel spreadsheet with columns headed: 
+
+- "Original Title in English"; 
+- "Year of original English publication"; 
+- "ISBN of original UK edition"; 
+- "original UK publisher"; 
+- "Author firstname"; 
+- "Author surname"; 
+- "Chinese Publisher of the translation"; 
+- "year of publication in China".
+
+Step 5: Create a link for this curated excel spreadsheet ready to download
+```
+The corresponding excel result of this is attached to the repository also
+
 ## Table of Contents
 
 1. [Book Concept Development](#book-concept-development)
