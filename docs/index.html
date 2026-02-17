@@ -789,36 +789,41 @@ For each concept, provide:
 <section id="write-clear-instructions" class="title-slide slide level1 center">
 <h1>Write clear instructions</h1>
 <ul>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-include-details-in-your-query-to-get-more-relevant-answers">Include details in your query to get more relevant answers</a></p></li>
-<li><p>This is like feeding LLM with important details or context</p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-ask-the-model-to-adopt-a-persona">Ask the model to adopt a persona</a></p>
+<li><p>Include details in your query to get more relevant answers</p>
+<ul>
+<li>This is like feeding LLM with important details or context</li>
+</ul></li>
+<li><p>Ask the model to adopt a persona</p>
 <ul>
 <li>You act as a workshop tutor!</li>
 </ul></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-delimiters-to-clearly-indicate-distinct-parts-of-the-input">Use delimiters to clearly indicate distinct parts of the input</a></p>
+<li><p>Use delimiters to clearly indicate distinct parts of the input</p>
 <ul>
 <li>specify the related content explicitly, ie.
 <article>
 insert first article here
 </article></li>
 </ul></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-specify-the-steps-required-to-complete-a-task">Specify the steps required to complete a task</a></p>
+<li><p>Specify the steps required to complete a task</p>
 <ul>
-<li>Spliting the task into smaller parts</li>
+<li>Splitting the task into smaller parts</li>
 </ul></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-provide-examples">Provide examples</a></p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-specify-the-desired-length-of-the-output">Specify the desired length of the output</a></p></li>
+<li><p>Provide examples whenever it is needed</p></li>
+<li><p>Specify the desired length of the output</p>
+<ul>
+<li>such as length of response in number of words etc.</li>
+</ul></li>
 </ul>
 </section>
 
 <section id="provide-reference-text" class="title-slide slide level1 center">
 <h1>Provide reference text</h1>
 <ul>
-<li><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-instruct-the-model-to-answer-using-a-reference-text">Instruct the model to answer using a reference text</a>
+<li>Instruct the model to answer using a reference text
 <ul>
 <li>Adding extra information</li>
 </ul></li>
-<li><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-instruct-the-model-to-answer-with-citations-from-a-reference-text">Instruct the model to answer with citations from a reference text</a>
+<li>Instruct the model to answer with citations from a reference text
 <ul>
 <li>Adding external source</li>
 </ul></li>
@@ -828,19 +833,26 @@ insert first article here
 <section id="split-complex-tasks-into-simpler-subtasks" class="title-slide slide level1 center">
 <h1>Split complex tasks into simpler subtasks</h1>
 <ul>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-intent-classification-to-identify-the-most-relevant-instructions-for-a-user-query">Use intent classification to identify the most relevant instructions for a user query</a></p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-for-dialogue-applications-that-require-very-long-conversations-summarize-or-filter-previous-dialogue">For dialogue applications that require very long conversations, summarize or filter previous dialogue</a></p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-summarize-long-documents-piecewise-and-construct-a-full-summary-recursively">Summarize long documents piecewise and construct a full summary recursively</a></p></li>
+<li><p>Use intent classification to identify the most relevant instructions for a user query</p></li>
+<li><p>Summarize long documents piecewise and construct a full summary recursively</p></li>
 </ul>
 </section>
 
 <section id="use-external-tools" class="title-slide slide level1 center">
 <h1>Use external tools</h1>
 <ul>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-embeddings-based-search-to-implement-efficient-knowledge-retrieval">Use embeddings-based search to implement efficient knowledge retrieval</a> More technical, such as RAG method</p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-use-code-execution-to-perform-more-accurate-calculations-or-call-external-apis">Use code execution to perform more accurate calculations or call external APIs</a></p></li>
-<li><p>Such as guiding LLM to do something with another tool!</p></li>
-<li><p><a href="https://platform.openai.com/docs/guides/prompt-engineering/tactic-give-the-model-access-to-specific-functions">Give the model access to specific functions</a></p></li>
+<li>Use embeddings-based search to implement efficient knowledge retrieval
+<ul>
+<li>May sounds more technical, such as RAG method but nowadays easy to create custom GPTs etc with additionally uploaded external resources in certain formats</li>
+</ul></li>
+<li>Use code execution to perform more accurate calculations or call external APIs
+<ul>
+<li>Such as guiding LLM to do something with another tool!</li>
+</ul></li>
+<li>Give the model access to specific functions or tools or apps online
+<ul>
+<li>like adding Figma as external tool etc.</li>
+</ul></li>
 </ul>
 <div class="callout callout-note callout-titled callout-style-default">
 <div class="callout-body">
@@ -934,6 +946,7 @@ insert first article here
 <section>
 <section id="do-specific-exercises" class="title-slide slide level1 center">
 <h1>Do specific exercises</h1>
+<p>Consider playing with some base templates with these strategies</p>
 <ul>
 <li><p>Exercise 1: Writing Your First Effective Prompts</p></li>
 <li><p>Exercise 2: Book Concept Development with LLMs</p></li>
@@ -956,7 +969,7 @@ insert first article here
 <p><strong>Note</strong></p>
 </div>
 <div class="callout-content">
-<p>Example with Spring-2023-Catalogue-Web.pdf file for custom GPTs</p>
+<p>Example with NewBooksScotland2026.pdf file for custom GPTs</p>
 </div>
 </div>
 </div>
@@ -1025,7 +1038,7 @@ insert first article here
 <h1>Open source or local LLMs</h1>
 <ul>
 <li><p>It is possible to benefit from open source models without any paid subscription (with limited usage) via <a href="https://huggingface.co/playground">HuggingFace</a></p></li>
-<li><p>Or some specific local usage can be done by certain platforms</p></li>
+<li><p>Or easy to download <a href="https://ollama.com/">Ollama</a> for open source local model experiments</p></li>
 </ul>
 <div class="callout callout-note callout-titled callout-style-default">
 <div class="callout-body">
