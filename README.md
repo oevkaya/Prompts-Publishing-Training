@@ -66,6 +66,7 @@ As a general guidance and initial information, the related [slides are available
 - **Google Gemini or Claude's LLMs**: These two can be reasonable alternatives while working on certain prompts
 - **Any size open LLM**: Huggingface playground can be useful for considering small size open source models
 - **arena.ai**: Allowing to play around so many closed and open LLM models comprataively, accessible via the [website](https://arena.ai/) having a leaderboards list, good to check based on tasks
+- **LLM rankings**:This can be one of the resources for this, [LLM Leaderboard - Comparison of over 100 AI models from OpenAI, Google, DeepSeek & others](https://artificialanalysis.ai/leaderboards/models) 
 
 ### Interactive Exercises (6 Markdown files)
 
