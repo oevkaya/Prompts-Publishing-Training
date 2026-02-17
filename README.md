@@ -58,16 +58,18 @@ As a general guidance and initial information, the related [slides are available
 ## Prompt Content Scripts
 
 - `prompt_template_library.md` - Prompt templates from the in class examples covering model parameter discussions, system messages, zero-shot, few-shot learning, and more practical examples
-- `input_publishing_data.csv` - Sample dataset related to publishing sector
-- `output_guest_message.json` - Example output showing structured responses
+- `Nature_Books_List.xlsx` - Sample dataset related to publishing sector that we extracted from prompt example
 
 ### Platforms
 
 - **OpenAI ChatGPT Interface**: Recommended for main usage with some extra functionalities if you have OpenAI membership
 - **Google Gemini or Claude's LLMs**: These two can be reasonable alternatives while working on certain prompts
 - **Any size open LLM**: Huggingface playground can be useful for considering small size open source models
+- **arena.ai**: Allowing to play around so many closed and open LLM models comprataively, accessible via the [website](https://arena.ai/) having a leaderboards list, good to check based on tasks
 
 ### Interactive Exercises (6 Markdown files)
+
+The below list of exercises are under the Exercises folder, having base templates to start with. 
 
 **Exercise 1:** Writing Your First Effective Prompts
 
@@ -88,4 +90,4 @@ As a general guidance and initial information, the related [slides are available
 
 #### Acknowledgments
 
-Thanks for the initial repository curated by me and CDCS people earlier on with their feedback. For the creation of base prompt templates, the deep search via Scispace and further curation has been implemented. Final templates and corresponding use cases are created personally based on draft materials. 
+Thanks for the initial repository curated by me and CDCS people earlier on with their feedback. For the creation of base prompt templates, the deep search via *Scispace AI tool* and further human based curation has been implemented. Final templates and corresponding use cases are created personally based on draft materials. 
